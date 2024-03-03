@@ -1,5 +1,19 @@
 # Changelog
 
+## 1.13.4 (2024-03-03)
+
+Full Changelog: [v1.13.3...v1.13.4](https://github.com/openai/openai-python/compare/v1.13.3...v1.13.4)
+
+### Chores
+
+* **docs:** mention install from git repo ([#1203](https://github.com/openai/openai-python/issues/1203)) ([3ab6f44](https://github.com/openai/openai-python/commit/3ab6f447ffd8d2394e58416e401e545a99ec85af))
+* **internal:** minor core client restructuring ([#1199](https://github.com/openai/openai-python/issues/1199)) ([4314cdc](https://github.com/openai/openai-python/commit/4314cdcd522537e6cbbd87206d5bb236f672ce05))
+
+
+### Documentation
+
+* **contributing:** improve wording ([#1201](https://github.com/openai/openai-python/issues/1201)) ([95a1e0e](https://github.com/openai/openai-python/commit/95a1e0ea8e5446c413606847ebf9e35afbc62bf9))
+
 ## 1.13.3 (2024-02-28)
 
 Full Changelog: [v1.13.2...v1.13.3](https://github.com/openai/openai-python/compare/v1.13.2...v1.13.3)
